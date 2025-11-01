@@ -5,7 +5,7 @@ const playlistData = [
         description: "This comprehensive playlist offers essential parenting guidance and valuable life lessons for parents and children. Featuring expert advice on child development, effective communication strategies, and practical parenting techniques. Learn how to build stronger family relationships, understand child psychology, and create a nurturing environment for your children's growth. Perfect for parents seeking meaningful insights into modern parenting challenges and solutions.",
         url: "https://www.youtube.com/playlist?list=PLwPax9asFg3YKvO0SQVGzO5E-OCqVxwgH",
         channel: "@YouTubePlaylistHindi",
-        category: ["⭐ VVIP", "📺 Video"],
+        category: ["⭐ VVIMP", "📺 Video"],
         impact: "✅ Very High",
         usefulness: "✅ Positive"
     },
@@ -14,7 +14,7 @@ const playlistData = [
         description: "Discover the ultimate guide to health and wellness with this extensive playlist covering fitness routines, nutritional advice, and healthy lifestyle practices. Learn about balanced diets, effective workout strategies, and sustainable health habits from experts. Whether you're beginning your fitness journey or seeking advanced health knowledge, this collection provides scientifically-backed information to help you achieve optimal physical and mental well-being.",
         url: "https://www.youtube.com/playlist?list=PLwPax9asFg3bMEMebsuU2FSSa7TnXm-tv",
         channel: "@YouTubePlaylistHindi",
-        category: ["⭐ VVIP", "📺 Video"],
+        category: ["⭐ VVIMP", "📺 Video"],
         impact: "✅ Very High",
         usefulness: "✅ Positive"
     },
@@ -23,7 +23,7 @@ const playlistData = [
         description: "Uncover the hidden truths about media, government systems, and societal structures in this eye-opening playlist. Explore critical analysis of power dynamics, media manipulation techniques, and the realities of elite influence. Gain awareness about how information is controlled and distributed, and develop critical thinking skills to navigate today's complex information landscape. Essential viewing for anyone seeking to understand the true mechanisms shaping our society.",
         url: "https://www.youtube.com/playlist?list=PLwPax9asFg3ZdGXiXHKmxnEDxeohkEqvS",
         channel: "@YouTubePlaylistHindi",
-        category: ["⭐ VVIP", "📺 Video"],
+        category: ["⭐ VVIMP", "📺 Video"],
         impact: "✅ Very High",
         usefulness: "✅ Positive"
     },
@@ -32,7 +32,7 @@ const playlistData = [
         description: "Embark on a journey of self-discovery and philosophical exploration with this profound playlist. Delve into timeless wisdom about life's purpose, the nature of time, and finding meaning in work and daily existence. Features insights from great thinkers and spiritual teachers on personal growth, mindfulness, and living authentically. Perfect for those seeking deeper understanding of themselves and their place in the world.",
         url: "https://www.youtube.com/playlist?list=PLwPax9asFg3bnDV6C6pSha40W1VSqy_bu",
         channel: "@YouTubePlaylistHindi",
-        category: ["⭐ VVIP", "📺 Video"],
+        category: ["⭐ VVIMP", "📺 Video"],
         impact: "✅ Very High",
         usefulness: "✅ Positive"
     },
@@ -41,7 +41,7 @@ const playlistData = [
         description: "Transform your life with this powerful collection of motivational content and practical life strategies. Learn how to build productive habits, develop mental discipline, enhance focus, and achieve personal transformation. Features expert advice on mindset shifts, productivity techniques, and inspirational stories of personal growth. Whether you're seeking career advancement or personal development, this playlist provides the tools for meaningful change.",
         url: "https://www.youtube.com/playlist?list=PLwPax9asFg3aCvH38Bz5UQZGzkCV1AIEs",
         channel: "@YouTubePlaylistHindi",
-        category: ["⭐ VVIP", "📺 Video"],
+        category: ["⭐ VVIMP", "📺 Video"],
         impact: "✅ Very High",
         usefulness: "✅ Positive"
     },
@@ -50,7 +50,7 @@ const playlistData = [
         description: "Explore the profound teachings of world-renowned thinkers and spiritual masters through this enlightening Hindi playlist. Discover the philosophical insights, spiritual wisdom, and transformative ideas that have shaped human consciousness across cultures and centuries. From Eastern mystics to Western philosophers, this collection brings you accessible explanations of complex spiritual concepts and practical applications for modern living.",
         url: "https://www.youtube.com/playlist?list=PLKEG0DlLAghkcWt_lKnqLVpBRcAM_xKph",
         channel: "@HumanityWood",
-        category: ["Biography", "⭐ VVIP", "📺 Video"],
+        category: ["Biography", "⭐ VVIMP", "📺 Video"],
         impact: "✅ Very High",
         usefulness: "✅ Positive"
     },
@@ -59,7 +59,7 @@ const playlistData = [
         description: "Immerse yourself in the rich spiritual heritage of India through this comprehensive collection of teachings from great Indian gurus and thinkers. Learn about ancient wisdom traditions, meditation practices, and philosophical concepts that have guided seekers for millennia. Features detailed explanations of Vedanta, Yoga, and other Indian spiritual paths in accessible Hindi language. Perfect for both beginners and advanced practitioners of Indian spirituality.",
         url: "https://www.youtube.com/playlist?list=PLKEG0DlLAghmjies7K7wj-97s6WY01syw",
         channel: "@HumanityWood",
-        category: ["Biography", "⭐ VVIP", "📺 Video"],
+        category: ["Biography", "⭐ VVIMP", "📺 Video"],
         impact: "✅ Very High",
         usefulness: "✅ Positive"
     },
@@ -68,7 +68,7 @@ const playlistData = [
         description: "This thought-provoking playlist explores religion and spirituality through philosophical lenses, examining the fundamental questions about God, existence, and human purpose. Delve into comparative religion studies, spiritual philosophy, and the essence of divine concepts across different traditions. Features intellectual discussions that bridge the gap between blind faith and rational inquiry, offering deeper understanding of spiritual matters beyond dogma and ritual.",
         url: "https://www.youtube.com/playlist?list=PLKEG0DlLAghnuOokCA9XS1X8IPR1jqlqk",
         channel: "@HumanityWood",
-        category: ["⭐ VVIP", "📺 Video"],
+        category: ["⭐ VVIMP", "📺 Video"],
         impact: "✅ Very High",
         usefulness: "✅ Positive"
     },
@@ -91,6 +91,7 @@ const playlistData = [
         usefulness: "✅ Positive"
     }
 ],
+
 
 // DOM Elements
 const playlistsContainer = document.getElementById('playlists-container');
