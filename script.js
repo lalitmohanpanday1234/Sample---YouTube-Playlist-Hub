@@ -90,7 +90,7 @@ const playlistData = [
         impact: "⚡ High",
         usefulness: "✅ Positive"
     }
-],
+];
 
 
 
